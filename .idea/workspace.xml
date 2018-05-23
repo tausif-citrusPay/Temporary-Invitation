@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2dd674ae-7d0b-4657-994a-fb3edcdbb0f8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/public/my-exp.html" afterPath="$PROJECT_DIR$/public/my-exp.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="50" column="90" lean-forward="false" selection-start-line="50" selection-start-column="90" selection-end-line="50" selection-end-column="90" />
+            <state relative-caret-position="299">
+              <caret line="63" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -265,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="50" column="90" lean-forward="false" selection-start-line="50" selection-start-column="90" selection-end-line="50" selection-end-column="90" />
+        <state relative-caret-position="299">
+          <caret line="63" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
